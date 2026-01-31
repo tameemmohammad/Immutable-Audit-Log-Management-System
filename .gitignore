@@ -1,2 +1,9 @@
 /node_modules
 .env
+
+
+
+
+mongodb+srv://tameemsret_db_user:<te7wKok8HNgZuYGO>
+@immutable-audit-log-man.2l1e5zb.mongodb.net/crms-db?
+retryWrites=true&w=majority

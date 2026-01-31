@@ -1,1 +1,1 @@
-backend fo the app 
+backend of the app 
