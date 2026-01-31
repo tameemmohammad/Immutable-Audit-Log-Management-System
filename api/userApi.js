@@ -36,7 +36,8 @@ router.post("/signup",
             username:username,
             password:hashedPassword,
             email:email,
-            bio:bio
+            bio:bio,
+            role:role
         })
 
         await user.save()
